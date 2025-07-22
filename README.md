@@ -34,7 +34,7 @@ The core of this project is a comparative analysis of different classification a
 
 The dataset for this project is the "Fake and Real News Dataset" from Kaggle, containing `title`, `text`, and `label` columns.
 
-  * **➡️ Direct Download Link:** [Detecting Fake News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+  * **➡️ Direct Download Link:** [Detecting Fake News Dataset on Kaggle](https://www.kaggle.com/datasets/amirmotefaker/detecting-fake-news-dataset/data)
 
   * **❗️ Important:** After downloading, you must ensure the file is named **`news.csv`** and placed in the main project directory.
 
